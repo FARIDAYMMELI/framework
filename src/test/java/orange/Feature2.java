@@ -7,7 +7,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import team2.SetUp;
 
-public class Logout extends SetUp {
+public class Feature2 extends SetUp {
 
     Logger log = LogManager.getLogger(LogoutTest.class.getName());
 

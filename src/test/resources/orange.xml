@@ -16,7 +16,7 @@
     </test>
     <test name="Feature2 test">
         <classes>
-            <class name="orange.Logout"></class>
+            <class name="orange.Feature2"></class>
         </classes>
     </test>
 <!--    <test name="Feature3 test">-->
