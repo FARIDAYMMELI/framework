@@ -11,12 +11,12 @@
     <parameter name="url" value="https://www.saucedemo.com/"></parameter>
     <test name="login test">
         <classes>
-            <class name="opencart.LoginTest"></class>
+            <class name="scaledupit.LoginTest"></class>
         </classes>
     </test>
     <test name="logout test">
         <classes>
-            <class name="opencart.LogoutTest"></class>
+            <class name="scaledupit.LogoutTest"></class>
         </classes>
     </test>
 

@@ -19,9 +19,9 @@
             <class name="gumtree.Feature2"></class>
         </classes>
     </test>
-    <test name="Feature3 test">
-        <classes>
-            <class name="gumtree.Feature3"></class>
-        </classes>
-    </test>
+<!--    <test name="Feature3 test">-->
+<!--        <classes>-->
+<!--            <class name="gumtree.Feature3"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
 </suite>

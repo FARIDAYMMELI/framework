@@ -1,4 +1,4 @@
-package opencart;
+package scaledupit;
 
 public class UserRegistration {
 
