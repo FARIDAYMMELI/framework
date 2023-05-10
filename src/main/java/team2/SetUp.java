@@ -71,7 +71,8 @@ public class SetUp {
     //------------------------------------------------------------------------------------------------------------------
     //                                              selenium methods
     //------------------------------------------------------------------------------------------------------------------.
-    public String getCurrentTitle(){
+    public String getCurrentTitle()
+    {
         return driver.getTitle();
     }
     public String getElementText(String locator){
