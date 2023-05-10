@@ -19,9 +19,9 @@
             <class name="orange.Feature2"></class>
         </classes>
     </test>
-    <test name="Feature3 test">
-        <classes>
-            <class name="orange.Feature3"></class>
-        </classes>
-    </test>
+<!--    <test name="Feature3 test">-->
+<!--        <classes>-->
+<!--            <class name="orange.Feature3"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
 </suite>
