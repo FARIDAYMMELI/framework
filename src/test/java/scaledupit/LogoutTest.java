@@ -10,6 +10,7 @@ public class LogoutTest extends SetUp {
 
     @Test
     public void logout() throws InterruptedException {
+
         // navigate to scaledupit website
         String expectedTitle = "Automation – Automate eCommerce";
         String actualTitle = getCurrentTitle();

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
 <suite name="scaledupit test">
     <parameter name="useCloudEnv" value="false"></parameter>
     <parameter name="envName" value="browserstack"></parameter>
@@ -8,6 +9,7 @@
     <parameter name="browserVersion" value="110"></parameter>
 
     <parameter name="browserName" value="chrome"></parameter>
+
     <parameter name="url" value="https://automation.scaledupit.com/"></parameter>
     <test name="registration  test">
         <classes>
@@ -26,6 +28,5 @@
 <!--        </classes>-->
 <!--    </test>-->
 </suite>
-
 
 
